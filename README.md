@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there
+
+About Me : 
+I'm currently ~~a Btech student at IIT KGP(Grad Yr 2024)~~ Nay just doing an online course for 1 lac sem fee.
+I mostly use python, but do have the basics of C/C++
+I'm pretty new around here, and the project count's low.
+But you can go through them and contribute if you feel like :)
 
 <!--
 **Aryan-Satpathy/Aryan-Satpathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
