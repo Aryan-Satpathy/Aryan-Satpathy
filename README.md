@@ -1,3 +1,7 @@
+<p allign = center>
+  <img src = https://user-images.githubusercontent.com/86613790/145228433-6927e56b-be21-4b6a-9f0f-d51dc60b747e.jpg alt = "Aryan Satpathy">
+</p>
+
 ### Hello there
 
 About Me : 
@@ -20,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Satpathy&show_icons=true&theme=onedark)](https://github.com/Aryan-Satpathy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Satpathy&layout=compact&show_icons=true&theme=onedark)](https://github.com/Aryan-Satpathy)
