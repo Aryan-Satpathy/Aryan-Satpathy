@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Satpathy&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/Aryan-Satpathy)
 
 <!--
-<a href="https://www.linkedin.com/in/aryan-satpathy-35b901221/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Aryan Satpathy | LinkedIn" width="21px"/></a>
+<a href="aryansatpathy@kgpian.iitkgp.ac.in"><img align="left" src="https://raw.githubusercontent.com/Aryan-Satpathy/Aryan-Satpathy/main/Images/Untitled design.png" alt="Aryan Satpathy | Mail" width="21px"/></a>
 <a href="https://www.linkedin.com/in/aryan-satpathy-35b901221/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/mail.svg" alt="Aryan Satpathy | LinkedIn" width="21px"/></a>
 -->
