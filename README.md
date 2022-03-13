@@ -15,8 +15,9 @@ But you can go through them and contribute if you feel like :)
 ### About me 
 
   I'm an electonics and electrical communication engineering student at IIT Kharagpur (2024 batch).
-  I mostly code in python but I could do it in C, C++ and C#.
+  My primary language is Python but I can do C, C#, C++.
   I'm interested in deep learning and robotics and looking forward to learn more.
+  I've had a sudden interest surge in the field of rendering and how Shaders work.
   I'm pretty new around here and project count's low, but feel free to go through them and contribute 🙂 
 
 <!--
@@ -36,18 +37,20 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on 
   
-  - E Yantraa 2021 (Theme : [Strawberry Stacker](https://portal.e-yantra.org/themeIntro/))
-  - Basic physics simulation in python i.e, cloth sim, inverse kinematics etc
-  - Monte Carlo Tree Search and Deep Learning in Chess
+  - Unity Shaders (HLSL)
+  - OpenGL (And GLSL Shaders but not quite at the point to integrate fancy shaders with opengl code)
+  - Wrapping a source low poly model onto a high poly target model.
 
 ### 🌱 I’m currently learning 
 
   - SLAM (Simultaneous Localization and Mapping)
+  - ICP
   - Deep Learning
+  - OpenCV and Mediapipe in C++
   
 ### Stats?
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Satpathy&show_icons=true&theme=midnight-purple)](https://github.com/Aryan-Satpathy)
+[![Aryan’s github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Satpathy&show_icons=true&theme=midnight-purple)](https://github.com/Aryan-Satpathy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Satpathy&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/Aryan-Satpathy)
 
