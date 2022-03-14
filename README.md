@@ -90,10 +90,6 @@ C++                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Aryan-Satpathy/Aryan-Satpathy/main/charts/bar_graph.png) 
-
 <!--END_SECTION:waka-->
 <!-- [![Aryan’s github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Satpathy&show_icons=true&theme=midnight-purple)](https://github.com/Aryan-Satpathy)
 
