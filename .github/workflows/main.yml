@@ -22,3 +22,4 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_UPDATED_DATE: "False"
