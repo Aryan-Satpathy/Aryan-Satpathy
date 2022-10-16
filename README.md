@@ -37,16 +37,18 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on 
   
+  - Perception and SLAM
+  - Deep Reinforcment Learning for Path Planning
+  - Operations Research and Optimization
   - Unity Shaders (HLSL)
   - OpenGL (And GLSL Shaders but not quite at the point to integrate fancy shaders with opengl code)
-  - Wrapping a source low poly model onto a high poly target model.
 
 ### 🌱 I’m currently learning 
 
-  - SLAM (Simultaneous Localization and Mapping)
-  - ICP
+  - Deep Reinforcement Learning
+  - Model Based RL
+  - MPC and Control Systems
   - Deep Learning
-  - OpenCV and Mediapipe in C++
   
 ### Stats?
 
