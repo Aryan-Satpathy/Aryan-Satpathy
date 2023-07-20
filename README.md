@@ -17,7 +17,7 @@ But you can go through them and contribute if you feel like :)
   I'm an electonics and electrical communication engineering student at IIT Kharagpur (2024 batch).
   My primary language is Python but I can do C, C#, C++.
   I'm interested in deep learning and robotics and looking forward to learn more.
-  I've had a sudden interest surge in the field of rendering and how Shaders work.
+  Still working on my website, sorry.
   I'm pretty new around here and project count's low, but feel free to go through them and contribute 🙂 
 
 <!--
